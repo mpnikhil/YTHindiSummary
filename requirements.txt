@@ -1,0 +1,13 @@
+langchain
+langchain-ollama
+langchain-core
+torch
+transformers
+youtube-transcript-api
+ollama>=0.1.9
+sentencepiece==0.1.97
+sentence-transformers
+accelerate
+langchain-community
+peft
+nltk==3.8.1
