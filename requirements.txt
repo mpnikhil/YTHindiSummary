@@ -11,3 +11,4 @@ accelerate
 langchain-community
 peft
 nltk==3.8.1
+IndicTransTokenizer
